@@ -6,25 +6,7 @@ http://yangyangwithgnu.github.io/
 
 ##谢谢
 
-**捐赠：支付宝 yangyangwithgnu@yeah.net ，支付宝二维码（左），微信二维码（右）**
-<div align="center">
-<img src="https://raw.githubusercontent.com/yangyangwithgnu/yangyangwithgnu.github.io/master/pics/alipay_donate_qr.png" alt=""/>
-<img src="https://raw.githubusercontent.com/yangyangwithgnu/yangyangwithgnu.github.io/master/pics/wechat_donate_qr.png" alt=""/><br>
-</div>
-
-**二手书**：书，我提高开发技能的重要手段之一，随着职业生涯的发展，书籍也在不断增多，对我而言，一本书最多读三遍，再往后，几乎没有什么营养吸收，这部分书对我已基本无用，但对其他人可能仍有价值，所以，为合理利用资源，我决定低价出售这些书，希望达到两个目的：0）用售出的钱购买更多新书（没当过雷锋的朋友 (๑´ڡ`๑)）；1）你低价购得需要的书（虽然二手）。到 https://github.com/yangyangwithgnu/used_books 看看有无你钟意的。
-
-
-##公告
-----------------
-
-**讨论**：任何意见建议移步 https://www.v2ex.com/t/123175  
-
 **声明**：我本人绝对尊重各大爱的论坛，提供的资源不仅优质而且免费，我只是懒、足够的懒。请大家支持这些论坛，多用页面访问、多点击广告、多解囊捐赠。*我..在..干..嘛  @_@#*
-
-**注意**  
-+ 代理是一切的先决条件。你可以使用自己的代理工具，用 hardseed 的命令行选项 --proxy 指定本地中转地址及端口，也可以用我为你预配置的 goagent 代理工具，位于 https://github.com/yangyangwithgnu/goagent_out_of_box_yang
-
 
 ##版本
 ----------------
@@ -47,18 +29,6 @@ http://yangyangwithgnu.github.io/
 **[v0.2.01，修正，2014-07-28]**：修正临时文件未删除的错误。  
 **[v0.2.00，新增，2014-07-23]**：应 @sigmadog 需求，增加抓取 caoliu 上自拍套图（江湖人称“達蓋爾的旗幟”）的功能。  
 **[v0.1.00，修正，2014-07-21]**：caoliu 论坛增加了反机器人机制，若翻页过快则视为机器人行为，下载页面为空白页。此版本可应对它的反机器人机制。
-
-
-##演示  
-----------------
-*hardseed*  
-![hardseed gif demo](https://raw.githubusercontent.com/yangyangwithgnu/hardseed/master/pic/hardseed.gif)  
-*running*  
-![hardseed gif demo](https://raw.githubusercontent.com/yangyangwithgnu/hardseed/master/pic/running.gif)  
-*more seeds and pictures*  
-![hardseed gif demo](https://raw.githubusercontent.com/yangyangwithgnu/hardseed/master/pic/seeds_and_pics.gif)  
-
-http://v.youku.com/v_show/id_XNzQxOTk0NTE2.html
 
 
 ##man
